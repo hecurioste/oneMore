@@ -5,7 +5,7 @@ let today = 1;
 let tommorrow = day + 1;
 
 let day = 2;
-let day2 = 4;
+let day2 = 2;
 
 console.log(message);
 console.log(`Today is day: ${today}, and tomorrow is ${tommorrow}`);
